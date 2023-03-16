@@ -1,0 +1,22 @@
+{
+  "name": "mac-application",
+  "version": "1.0.0",
+  "description": "Mac application for Telepathy",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "Telepathy-macOS"
+  },
+  "keywords": [
+    "telepathy"
+  ],
+  "author": "Wes Louis",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^23.1.4"
+  }
+}
